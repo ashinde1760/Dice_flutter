@@ -1,0 +1,4 @@
+#Mon Aug 23 20:06:06 IST 2021
+base.0=/home/akshay/Desktop/Projects/Flutter/Dice_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
